@@ -2,9 +2,9 @@ function findOppositeNumber(n,inputNumber) {
     if (4<=n<=20) {
         let result = inputNumber+(n/2);
         if(result<n){
-            console.log(result);
+            alert(result);
         }else if(result>=n){
-            console.log(result-n)
+            alert(result-n)
         }
     }
 }

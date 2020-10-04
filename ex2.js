@@ -18,4 +18,4 @@ function merge2String(str1,str2) {
 
 let string1 =prompt("Nhap string 1: ")
 let string2 = prompt("Nhap string 2: ")
-console.log(merge2String(string1,string2))
+alert("CHUỖI MỚI CỦA BẠN LÀ : "+  merge2String(string1,string2))
